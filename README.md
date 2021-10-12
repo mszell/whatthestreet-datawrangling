@@ -1,4 +1,4 @@
-# The Mobility Space Report: What the Street!?
+# What the Street!?
 **Part 1: Data Wrangling**
 
 ![screen shot 2017-06-27 at 19 11 42](https://user-images.githubusercontent.com/533590/27597962-b001f55c-5b6c-11e7-97e4-d3fef2033637.png)
